@@ -1,7 +1,7 @@
 package pr;
 
-public class Main {
+public class Main{
 	
 	
-	int test;
+	int test; //Mateusz ma długiego
 }
