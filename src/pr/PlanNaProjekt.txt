@@ -1,7 +1,18 @@
 Plan na projekt:
-cokolwiek
-<<<<<<< HEAD
-Spadanie do wody na punkty
-=======
 
->>>>>>> master
+
+=========MINIGAMES============
+
+=====GLOBAL
+Zbieranie prezentow po całym świecie
+
+
+=====MINI
+
+Spadanie do wody na punkty
+
+
+==========EASTER EGGS=========
+
+
+
