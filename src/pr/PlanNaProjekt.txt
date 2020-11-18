@@ -1,3 +1,7 @@
 Plan na projekt:
 cokolwiek
+<<<<<<< HEAD
 Spadanie do wody na punkty
+=======
+
+>>>>>>> master
