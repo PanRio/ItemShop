@@ -10,9 +10,12 @@ Zbieranie prezentow po caÅ‚ym Å›wiecie
 =====MINI
 
 Spadanie do wody na punkty
+parkour (free run plugin)
+bulid battle
 
 
 ==========EASTER EGGS=========
 
-
+minigra w szukanie prezentów
+mo¿liwoœæ zakupu prezentu za wydanie punktów
 
