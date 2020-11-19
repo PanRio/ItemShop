@@ -11,7 +11,7 @@ import cn.nukkit.plugin.PluginBase;
 public class Main extends PluginBase {
 
 
-	public Item item = new Item(ItemID.EMERALD,12);
+	public Item item = new Item(ItemID.EMERALD,0,12);
 
 	@Override
 	public void onEnable() {
@@ -50,9 +50,9 @@ public class Main extends PluginBase {
 
 
 					break;
-				case "getItem":
+				case "getitem":
 
-
+					player.getInventory().setItemInHand(item);
 
 
 					break;
