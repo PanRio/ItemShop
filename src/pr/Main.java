@@ -17,7 +17,7 @@ public class Main extends PluginBase {
 	public void onEnable() {
 
 
-
+			getServer().getPluginManager().registerEvents(new ShopGui(),this);
 
 
 		super.onEnable();
